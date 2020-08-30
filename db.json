@@ -1,0 +1,35 @@
+{
+  "contacts": [
+    {
+      "name": "we we we we  we 232 3",
+      "id": "0AjYlqAp7vzxZaWsxQNDF"
+    },
+    {
+      "name": "we we wer ",
+      "id": "ytBuEmU5NiJinelDFkx-P"
+    },
+    {
+      "name": "2123 23123 123 4",
+      "id": "okgMEf5_Ebpge_AppMTbx"
+    },
+    {
+      "name": "asd asdasd asd dfsdf ",
+      "id": "jOpD9Fv6mxTeY5be6rhq7"
+    },
+    {
+      "name": "ds df 23 23 3",
+      "id": "P9A9tX05-3qtHeTM8IUNT"
+    },
+    {
+      "name": "s dfsdsdf sdf sdsdf",
+      "id": "Iw-hKb1jSRJoIoj2T5hJL"
+    }
+  ],
+  "login": [
+    {
+      "id": "1000",
+      "email": "test@test.com",
+      "password": "12345"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+@keyframes shake {
+  from {transform: translate(5px);}
+  50% {transform: translate(-5px);}
+  to {transform: translate(5px);}
+  }
+
+.login-form {
+  animation: shake 0.1s infinite ease-in-out;
+}
